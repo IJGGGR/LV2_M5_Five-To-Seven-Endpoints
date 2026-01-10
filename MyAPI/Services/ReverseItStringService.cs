@@ -11,7 +11,7 @@ namespace MyAPI.Services
         {
             char[] arr = arg.ToCharArray();
             Array.Reverse(arr);
-            return new string(arr);
+            return $"{arg} -> {new string(arr)}";
         }
     }
 }

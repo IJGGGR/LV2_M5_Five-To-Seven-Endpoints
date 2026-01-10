@@ -15,7 +15,7 @@ namespace MyAPI.Services
                 return "Error: Numbers only.";
             }
             Array.Reverse(arr);
-            return new string(arr);
+            return $"{arg} -> {new string(arr)}";
         }
     }
 }

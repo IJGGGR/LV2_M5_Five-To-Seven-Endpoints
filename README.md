@@ -5,4 +5,4 @@
 
 ## Peer Review
 
-- TODO Xavier-I like the your mad lab which you simplify, but give a good story, the other project work good, looks good to me.
+- Xavier: I like the your mad lab which you simplify, but give a good story, the other project work good, looks good to me.
